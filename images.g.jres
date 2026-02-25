@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQKAAoAAAAREREREQAAABERERERAAAAEREREREAAAAREREREQAAABERERERAAAAEREREREAAAAREREREQAAABERERERAAAAEREREREAAAAREREREQAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "WHITE"
+    },
+    "image2": {
+        "data": "hwQKAAoAAAD//////wAAAP//////AAAA//////8AAAD//////wAAAP//////AAAA//////8AAAD//////wAAAP//////AAAA//////8AAAD//////wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "BLACK"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
